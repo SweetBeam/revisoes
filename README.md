@@ -23,5 +23,5 @@ git coomit -m " readme atualizado!"
 2) fazer um git push
 
 do servidor (GITHUB) para o local
-1) alterar coisas no github..
+1) alterar coisas no github.. , e fazer um commit
 2)no nosso pc, portanto no repositorio local fazer git pull
